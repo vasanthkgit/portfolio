@@ -203,32 +203,7 @@
     , "inclass":  "animate__flipInY"
     , "outclass": "animate__flipOutY"
     }
-  , {
-      "selector": "#car-03"
-    , "inclass":  "animate__flipInY"
-    , "outclass": "animate__flipOutY"
-    }
-  , {
-      "selector": "#car-04"
-    , "inclass":  "animate__flipInY"
-    , "outclass": "animate__flipOutY"
-    }
-  , {
-      "selector": "#car-05"
-    , "inclass":  "animate__flipInY"
-    , "outclass": "animate__flipOutY"
-    }
-  , {
-      "selector": "#car-06"
-    , "inclass":  "animate__flipInY"
-    , "outclass": "animate__flipOutY"
-    }
-  , {
-      "selector": "#car-07"
-    , "inclass":  "animate__flipInY"
-    , "outclass": "animate__flipOutY"
-    }
-  ,
+  , 
    {
       "selector": "#skills .section-title"
     , "inclass":  "animate__fadeInDown"
